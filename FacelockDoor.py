@@ -6,8 +6,8 @@ import serial
 import time
 import pyttsx3
 
-data_path = 'C:\\Users\\jatot\\AppData\\Local\\Programs\\Python\\Images'
-face_cascade_path = 'C:\\Users\\jatot\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml'
+data_path = 'C:\Users\raghu chintu\OneDrive\Desktop - Copy\raghu\B.Tech [PROJECTS]\face'
+face_cascade_path = 'C:\Users\raghu chintu\OneDrive\Desktop - Copy\raghu\B.Tech [PROJECTS]\facehaarcascade_frontalface_default.xml'
 
 face_classifier = cv2.CascadeClassifier(face_cascade_path)
 
